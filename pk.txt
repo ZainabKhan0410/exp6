@@ -1,0 +1,40 @@
+
+GitHub (often misspelled as “Githib”) is a website where people store, manage, and share their computer code.
+
+Think of it as Google Drive for programmers, but specifically designed for coding projects.
+
+Demystifying GitHub: A Beginner’s Guide to Setting Up Your Account and Creating Your First Repository | by Jervis Anthony Saldanha | Medium
+
+How to Host Your Project on GitHub – Explained With Examples
+
+Using GitHub with a Browser – SciComp Workshop - Collaborative Coding with GitHub
+
+## What can you do with GitHub?
+
+1. Store code: Save your programming projects online.
+2. Share code: Let other people see and use your projects.
+3. Collaborate: Work on coding projects with friends or teammates.
+4. Track changes: See what was changed in your code and when.
+5. Build a portfolio: Show employers the projects you've created.
+
+## Simple example
+
+Suppose you build a calculator using Python.
+
+- You write the code on your computer.
+- You upload it to GitHub.
+- Other people can view your code.
+- You can update your project whenever you want.
+
+## What is the difference between Git and GitHub?
+
+- Git: A tool that tracks changes in your code.
+- GitHub: A website that hosts Git projects online.
+
+Download Free GitHub Logo PNG and SVG Icons
+
+Try GitHub
+
+[Visit www.github.com](<https://github.com/?utm_source=chatgpt.com>)
+
+Would you like me to teach you how to use GitHub from zero, step by step, even if you don't know coding?
